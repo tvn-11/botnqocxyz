@@ -1,7 +1,7 @@
 ## introduce
 <div align="center">
-  <h1>Mirai Bot V2 mod by R1zaX</h1>
- <strong>Source code Mirai Project</strong> được <strong>R1zaX</strong> mod lại.
+  <h1>Mirai Bot V2 mod by tvnqocc_xyz</h1>
+ <strong>Source code Mirai Project</strong> được <strong>tnqocc_xyz</strong> mod lại.
 </div>
 	
 </p>
@@ -49,4 +49,4 @@ This project is licensed under the GNU General Public License v3.0 License - see
 <!-- CONTACT -->
 ## Contact
 
-R1zaX - [Facebook](https://www.facebook.com/RqzaX.VqnThuqn.040) - [GitHub](https://github.com/RqzaX040)
+R1zaX - [Facebook](https://www.facebook.com/profile.php?id=616652161) - [GitHub](https://github.com/tvn-11)
